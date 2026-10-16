@@ -1,0 +1,6 @@
+# Dono padrão do repositório:
+*                       @HigorHenrique4tech
+
+# Pipeline e imagens: mudanças aqui afetam a cadeia de suprimentos
+/.github/               @HigorHenrique4tech
+**/Dockerfile           @HigorHenrique4tech
